@@ -1,1 +1,1 @@
-# causal-feature-learning-demos
+# causal-feature-learning demos
